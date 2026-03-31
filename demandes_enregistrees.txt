@@ -1,0 +1,6 @@
+kill|mille|0014-01-01|mre|aaaa@jjjj.kk|700000000|19-03-2026 20:32
+kill|mille|0014-01-01|mre|aaaa@jjjj.kk|700000000|19-03-2026 20:40
+kill|mille|0014-01-01|mre|aaaa@jjjj.kk|700000000|19-03-2026 20:42
+kill|mille|0014-01-01|mre|aaaa@jjjj.kk|700000000|19-03-2026 20:42
+kill|mille|0014-01-01|mre|aaaa@jjjj.kk|700000000|19-03-2026 20:45
+Diatta|Papa|2003-01-13|mre|papasouleymanealioudiatta@gmail.com|770667823|19-03-2026 20:48

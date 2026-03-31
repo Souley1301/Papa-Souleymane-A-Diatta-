@@ -1,0 +1,12 @@
+KILL|MILLE|0014-01-01|MRE|aaaa@jjjj.kk|700000000
+KILL|MILLE|0014-01-01|MRE|aaaa@jjjj.kk|700000000
+KILL|MILLE|0014-01-01|MRE|aaaa@jjjj.kk|700000000
+KILL|MILLE|0014-01-01|MRE|aaaa@jjjj.kk|700000000
+DIATTA|PAPA|2003-01-13|MRE|papasouleymanealioudiatta@gmail.com|770667823
+LAMINE|YAMAL|2026-03-19|CAMPNOU|papasouleymanealioudiatta@gmail.com|770667823
+LAMINE|YAMAL|2026-03-19|CAMPNOU|papasouleymanealioudiatta@gmail.com|770667823
+LUNE|DIOP|2026-03-20|L6|papasouleymanealioudiatta@gmail.com|770667823
+LOP|POL|2026-03-23|SAC|papasouleymanealioudiatta@gmail.com|770667823
+HABB|DIALLO|2026-03-24|LIO,|papasouleymanealioudiatta@gmail.com|771426306
+HABB|DIALLO|2026-03-24|LIO,|papasouleymanealioudiatta@gmail.com|771426306
+HABB|DIALLO|2026-03-24|LIO,|papasouleymanealioudiatta@gmail.com|771426306
